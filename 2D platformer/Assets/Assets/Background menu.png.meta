@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 81d50af224405c64e8f630a2d073c1bd
+guid: c53f5645766abc9409882b7a269683ea
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -173,70 +173,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: Menus-InGame_0
-      rect:
-        serializedVersion: 2
-        x: 60
-        y: 958
-        width: 291
-        height: 83
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b3a03adac916e1547a804a94230b1f13
-      internalID: -19186670
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Menus-InGame_3
-      rect:
-        serializedVersion: 2
-        x: 452
-        y: 962
-        width: 63
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 463eea764a3f4364e96e8b63ee7216d5
-      internalID: -1703551368
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Menus-InGame_4
-      rect:
-        serializedVersion: 2
-        x: 67
-        y: 828
-        width: 273
-        height: 68
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 74b7dbcabcb5f3149996c0eebe43f428
-      internalID: 1375573534
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
@@ -247,14 +184,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      Menus-InGame_0: -19186670
-      Menus-InGame_1: 1947693287
-      Menus-InGame_2: -997466256
-      Menus-InGame_3: -1703551368
-      Menus-InGame_4: 1375573534
-      Menus-InGame_5: -1595183047
-      Menus-InGame_6: -1088224202
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 81d50af224405c64e8f630a2d073c1bd
+guid: f05b8a79d1f2ad24c849c59c03440746
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -175,13 +175,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Menus-InGame_0
+      name: Background of game buttons colour changed transperant_0
       rect:
         serializedVersion: 2
-        x: 60
-        y: 958
-        width: 291
-        height: 83
+        x: 407
+        y: 812
+        width: 1117
+        height: 151
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -189,20 +189,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3a03adac916e1547a804a94230b1f13
-      internalID: -19186670
+      spriteID: 4cc0f12beb526374d8816045bb6214c9
+      internalID: -172233672
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Menus-InGame_3
+      name: Background of game buttons colour changed transperant_8
       rect:
         serializedVersion: 2
-        x: 452
-        y: 962
-        width: 63
-        height: 67
+        x: 820
+        y: 605
+        width: 278
+        height: 93
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -210,20 +210,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 463eea764a3f4364e96e8b63ee7216d5
-      internalID: -1703551368
+      spriteID: 8ea1ec95ae3090e46b6ecdaafde66da0
+      internalID: -276087741
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Menus-InGame_4
+      name: Background of game buttons colour changed transperant_9
       rect:
         serializedVersion: 2
-        x: 67
-        y: 828
-        width: 273
-        height: 68
+        x: 800
+        y: 495
+        width: 314
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,8 +231,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74b7dbcabcb5f3149996c0eebe43f428
-      internalID: 1375573534
+      spriteID: 179a3ad07b85a7d4b8d4520bd7417616
+      internalID: -1963883768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background of game buttons colour changed transperant_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 385
+        width: 314
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9223dbea3f494ab46b888d53dff4ee99
+      internalID: -2056228539
       vertices: []
       indices: 
       edges: []
@@ -248,13 +269,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Menus-InGame_0: -19186670
-      Menus-InGame_1: 1947693287
-      Menus-InGame_2: -997466256
-      Menus-InGame_3: -1703551368
-      Menus-InGame_4: 1375573534
-      Menus-InGame_5: -1595183047
-      Menus-InGame_6: -1088224202
+      Background of game buttons colour changed transperant_0: -172233672
+      Background of game buttons colour changed transperant_1: 1908496732
+      Background of game buttons colour changed transperant_10: -2056228539
+      Background of game buttons colour changed transperant_2: 502565435
+      Background of game buttons colour changed transperant_3: -167459128
+      Background of game buttons colour changed transperant_4: 665470436
+      Background of game buttons colour changed transperant_5: -744535244
+      Background of game buttons colour changed transperant_6: 1446734599
+      Background of game buttons colour changed transperant_7: 1025512503
+      Background of game buttons colour changed transperant_8: -276087741
+      Background of game buttons colour changed transperant_9: -1963883768
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 81d50af224405c64e8f630a2d073c1bd
+guid: 91630b2562a1c6d41a05d8d2767004e7
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -175,13 +175,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Menus-InGame_0
+      name: Buttons for game menu transparent_0
       rect:
         serializedVersion: 2
-        x: 60
-        y: 958
-        width: 291
-        height: 83
+        x: 425
+        y: 789
+        width: 1118
+        height: 145
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -189,20 +189,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3a03adac916e1547a804a94230b1f13
-      internalID: -19186670
+      spriteID: 165fdff96c38d544ba1d8dfea139c193
+      internalID: 245717934
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Menus-InGame_3
+      name: Buttons for game menu transparent_8
       rect:
         serializedVersion: 2
-        x: 452
-        y: 962
-        width: 63
-        height: 67
+        x: 820
+        y: 605
+        width: 278
+        height: 93
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -210,20 +210,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 463eea764a3f4364e96e8b63ee7216d5
-      internalID: -1703551368
+      spriteID: 58aa82e479b44564db1e137c108e0e4a
+      internalID: -1664049018
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Menus-InGame_4
+      name: Buttons for game menu transparent_9
       rect:
         serializedVersion: 2
-        x: 67
-        y: 828
-        width: 273
-        height: 68
+        x: 800
+        y: 495
+        width: 314
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,8 +231,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74b7dbcabcb5f3149996c0eebe43f428
-      internalID: 1375573534
+      spriteID: bb3b28e40df488843902fd6ae92e262e
+      internalID: 1677321774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons for game menu transparent_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 385
+        width: 314
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5b484f9aed9054bb37dfe69f3b54e7
+      internalID: -1210176679
       vertices: []
       indices: 
       edges: []
@@ -248,13 +269,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Menus-InGame_0: -19186670
-      Menus-InGame_1: 1947693287
-      Menus-InGame_2: -997466256
-      Menus-InGame_3: -1703551368
-      Menus-InGame_4: 1375573534
-      Menus-InGame_5: -1595183047
-      Menus-InGame_6: -1088224202
+      Buttons for game menu transparent_0: 245717934
+      Buttons for game menu transparent_1: -189961082
+      Buttons for game menu transparent_10: -1210176679
+      Buttons for game menu transparent_2: -729321868
+      Buttons for game menu transparent_3: 1689792744
+      Buttons for game menu transparent_4: -120828222
+      Buttons for game menu transparent_5: -1264382313
+      Buttons for game menu transparent_6: 676083133
+      Buttons for game menu transparent_7: -201397938
+      Buttons for game menu transparent_8: -1664049018
+      Buttons for game menu transparent_9: 1677321774
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

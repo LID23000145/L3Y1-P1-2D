@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 81d50af224405c64e8f630a2d073c1bd
+guid: 03b3677af5e43f34380396b631340f6d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -175,13 +175,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Menus-InGame_0
+      name: Character (For my game) Coraline Character_0
       rect:
         serializedVersion: 2
-        x: 60
-        y: 958
-        width: 291
-        height: 83
+        x: 41
+        y: 211
+        width: 19
+        height: 65
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -189,20 +189,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3a03adac916e1547a804a94230b1f13
-      internalID: -19186670
+      spriteID: 58aec09d46693604e8709c4fec050760
+      internalID: -1838071187
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Menus-InGame_3
+      name: Character (For my game) Coraline Character_1
       rect:
         serializedVersion: 2
-        x: 452
-        y: 962
-        width: 63
-        height: 67
+        x: 137
+        y: 210
+        width: 23
+        height: 66
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -210,20 +210,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 463eea764a3f4364e96e8b63ee7216d5
-      internalID: -1703551368
+      spriteID: b167f585c3421364eaf2ec958ad8f5e7
+      internalID: -1764654147
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Menus-InGame_4
+      name: Character (For my game) Coraline Character_2
       rect:
         serializedVersion: 2
-        x: 67
-        y: 828
-        width: 273
-        height: 68
+        x: 34
+        y: 112
+        width: 29
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,8 +231,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74b7dbcabcb5f3149996c0eebe43f428
-      internalID: 1375573534
+      spriteID: 3da39d6b30338cc4ea514bc718b89d5c
+      internalID: -735960829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character (For my game) Coraline Character_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 110
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7d55919165c084297a675bb29ecaba
+      internalID: 1782029177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character (For my game) Coraline Character_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 12
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd145d33467cea440ab25fe38dd4ebe8
+      internalID: -1716870857
       vertices: []
       indices: 
       edges: []
@@ -248,13 +290,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Menus-InGame_0: -19186670
-      Menus-InGame_1: 1947693287
-      Menus-InGame_2: -997466256
-      Menus-InGame_3: -1703551368
-      Menus-InGame_4: 1375573534
-      Menus-InGame_5: -1595183047
-      Menus-InGame_6: -1088224202
+      Character (For my game) Coraline Character_0: -1838071187
+      Character (For my game) Coraline Character_1: -1764654147
+      Character (For my game) Coraline Character_2: -735960829
+      Character (For my game) Coraline Character_3: 1782029177
+      Character (For my game) Coraline Character_4: -1716870857
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
